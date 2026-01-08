@@ -1,6 +1,6 @@
 # Bright Data レジデンシャルプロキシ
 
-[![Promo](https://github.com/luminati-io/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.co.kr/proxy-types/residential-proxies) 
+[![Promo](https://github.com/bright-kr/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.co.kr/proxy-types/residential-proxies) 
 
 ## 개요
 정밀한 타기팅, 타의 추종을 불허하는 안정성, 빠른 응답 시간을 제공하도록 설계된 Bright Data의 [업계 선도 레ジデンシャルプロキシ](https://brightdata.co.kr/proxy-types/residential-proxies)로 매끄러운 スクレイピング을 경험해 보시기 바랍니다.
@@ -26,7 +26,7 @@
   - **339 GB**: $5.88/GB, $1999/월.
   - **Enterprise 요금제**: 대규모 요구 사항을 위한 맞춤형 솔루션을 제공합니다.
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.co.kr/proxy-types/residential-proxies) 
+[![Promo](https://github.com/bright-kr/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.co.kr/proxy-types/residential-proxies) 
 
 ## レジデンシャルプロキシ 시작하기
 1. **무료 체험 시작**: 신용카드가 필요하지 않습니다.
